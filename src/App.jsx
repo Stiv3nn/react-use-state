@@ -1,6 +1,6 @@
-import Header from "./components/header"
-import Main from "./components/main"
-import Footer from "./components/footer"
+import Header from "./components/Header.jsx"
+import Main from "./components/Main.jsx"
+import Footer from "./components/Footer.jsx"
 
 
 

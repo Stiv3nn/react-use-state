@@ -25,6 +25,7 @@ header h1{
 
 .container button{
     background-color: blue;
+    border: 0px;
     color: white;
     font-size: 15px;
     padding: 7px 7px;
